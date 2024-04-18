@@ -24,3 +24,6 @@ Track 2. **Topic Coherence Modeling (TCM)**. The task involves identifying the t
 
 Track 3: **Discourse Coherence Feedback Generation (DCFG)**. Annotators assess a middle school essay's discourse coherence, focusing on four key areas: understanding the essay's structure and flow (Discourse Analysis), identifying main arguments and details (Topic Extraction), evaluating argument logic and relevance (Logic Detection), and providing an overall coherence rating (Coherence Rating). The feedback should be specific, constructive, and aimed at guiding students to improve their writing skills.
 
+
+数据声明：为了确保学生信息的妥善处理和保护，此次数据不可用于竞赛之外的商业用途；若有其他学术需求请进一步联系组织者。
+
