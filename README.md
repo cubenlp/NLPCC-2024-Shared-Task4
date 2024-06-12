@@ -5,10 +5,11 @@
 
 | 时间 | 消息 |
 | --- | --- |
-| 4月15日 | 训练数据和guidelines已公布，报名截止时间为5月25日 |
-| 3月25日 | 评测任务开放报名，训练数据和guidelines将于4月15日公布 |
-
-
+| 4月15日 | 训练数据和guidelines已公布 |
+| 3月25日 | 评测任务开放报名 |
+| 4月15日 | 训练数据和guidelines公布 |
+| 5月25日 | 报名截止 |
+| 6月11日 | 测试数据通过邮件发布，公布[测试结果排行榜](https://github.com/cubenlp/NLPCC-2024-Shared-Task4/blob/main/Result.md) |
 
 
 
