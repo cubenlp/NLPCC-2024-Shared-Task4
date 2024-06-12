@@ -11,7 +11,11 @@
 | 5月25日 | 报名截止 |
 | 6月11日 | 测试数据通过邮件发布，公布[测试结果排行榜](https://github.com/cubenlp/NLPCC-2024-Shared-Task4/blob/main/Result.md) |
 
+# 评价标准
+## Track 2. **Topic Coherence Modeling (TCM)**.
 
+&emsp;采用段落间关系细粒度识别准确率（Accuracy，Acc）、段落主题句识别准确率（Accuracy，Acc）来评估中小学作文主题连贯性建模的效果：
+    $$Score_{track2} = (Relation{\textunderscore}Acc + ParaTopic{\textunderscore}Acc) / 2$$
 
 # Introduction
  
