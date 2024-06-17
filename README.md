@@ -24,7 +24,7 @@
     $$Score_{track2} = (0.3 \times Micro-F_{1}^{Coarse-grained} + 0.7 \times Micro-F_{1}^{Fine-grained} + 0.3 \times Macro-F_{1}^{Coarse-grained} + 0.7 \times Macro-F_{1}^{Fine-grained} + (Relation{\textunderscore}Acc + ParaTopic{\textunderscore}Acc)) / 4$$
     
 ## Track 3. **Discourse Coherence Feedback Generation (DCFG)**.
-&emsp;由PPL、BLEU、ROUGE-L、BERTScore和人工打分来评估中小学作文语篇连贯性评语生成的效果，具体计算方式如下：
+&emsp;由PPL(取对数处理)、BLEU、ROUGE-L、BERTScore和人工打分来评估中小学作文语篇连贯性评语生成的效果，具体计算方式如下：
     $$Score_{track3} = 0.15 \times PPL + 0.25 \times BLEU + 0.25 \times ROUGE-L + 0.3 \times BERTScore + 0.05 \times Human{\textunderscore}Expert{\textunderscore}Feedback$$
 # Introduction
  
