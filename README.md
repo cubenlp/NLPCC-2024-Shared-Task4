@@ -10,7 +10,8 @@
 | 4月15日 | 训练数据和guidelines公布 |
 | 5月25日 | 报名截止 |
 | 6月11日 | 测试数据通过邮件发布，公布[测试结果排行榜](https://github.com/cubenlp/NLPCC-2024-Shared-Task4/blob/main/Result.md) |
-
+| 6月20日 | 比赛结果提交截止 |
+| 6月30日 | 比赛结果成绩公布[最终结果排行榜](https://github.com/cubenlp/NLPCC-2024-Shared-Task4/blob/main/Result.md) |
 # 评价标准
 
 ## Track 1. **Discourse Logic Error Detection (DLED)**.
