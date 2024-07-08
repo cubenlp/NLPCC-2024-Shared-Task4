@@ -16,7 +16,7 @@
 
 ## Track 1. **Discourse Logic Error Detection (DLED)**.
 &emsp;总分由语篇逻辑错误识别分数（包括精确率（Precision, P）、召回率（Recall, R）、（F1值（F1）））来评估语篇逻辑错误类型的识别效果，具体计算方式如下：
-    $$Score_{track1} = F_{1}^{Fine-grained}$$
+    $$Score_{track1} = 0.5 \times Micro-F_{1} + 0.5 \times Macro-F_{1}$$
 
 
 ## Track 2. **Topic Coherence Modeling (TCM)**.
